@@ -1,3 +1,12 @@
+![image](https://github.com/davidalsh/crm-nuxt/assets/78478071/6122c13f-96f0-4158-967f-1678eeac4e0e)
+
+![image](https://github.com/davidalsh/crm-nuxt/assets/78478071/2aa2f942-3430-4ca3-a822-55406028b36c)
+
+
+
+
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
